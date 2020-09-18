@@ -162,14 +162,14 @@ a {
 
 .btn-default {
   display: inline-block;
-  color: #f43930;
+  color: #92B168;
   font-size: 18px;
   font-weight: 600;
-  border-bottom: 1px solid #f43930;
+  border-bottom: 1px solid #92B168;
   padding-bottom: 4px;
 }
 .btn-default:hover {
-  color: #f43930;
+  color: #92B168;
 }
 
 .fixed-bg {
@@ -235,7 +235,7 @@ a {
 }
 .slick-prev:hover,
 .slick-next:hover {
-  background-color: #f43930;
+  background-color: #92B168;
   border-color: transparent;
 }
 .slick-prev:hover:before,
@@ -323,7 +323,7 @@ a {
 .btn-style2 {
   color: #fff;
   display: inline-block;
-  background-color: #f43930;
+  background-color: #92B168;
   width: 100px;
   height: 100px;
   line-height: 100px;
@@ -355,7 +355,7 @@ a {
   border: 0;
 }
 .pagination li a:hover, .pagination li a.active {
-  color: #f43930;
+  color: #92B168;
   background-color: inherit;
 }
 
@@ -376,7 +376,7 @@ a {
 
 .failed,
 .text-info {
-  background: #f43930;
+  background: #92B168;
   color: #fff;
   padding: 15px 20px;
 }
@@ -437,7 +437,7 @@ a {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #f43930;
+  background-color: #92B168;
   -webkit-animation: foldthecube 2.4s infinite linear both;
   -moz-animation: foldthecube 2.4s infinite linear both;
   -ms-animation: foldthecube 2.4s infinite linear both;
@@ -638,7 +638,7 @@ header .container {
   padding: 53px 30px 21px;
 }
 .header-content nav ul li a.active, .header-content nav ul li a:hover {
-  background-color: #f43930;
+  background-color: #92B168;
 }
 .header-content .contact-head-info {
   margin-top: 36px;
@@ -701,11 +701,11 @@ header .container {
 }
 .main-banner .banner-text a {
   display: inline-block;
-  color: #f43930;
+  color: #92B168;
   font-size: 18px;
   font-weight: 600;
   padding-bottom: 4px;
-  border-bottom: 1px solid #f43930;
+  border-bottom: 1px solid #92B168;
 }
 .main-banner .banner-img {
   flex: 0 0 618px;
@@ -797,7 +797,7 @@ header .container {
   width: 70px;
   height: 70px;
   line-height: 70px;
-  background-color: #f43930;
+  background-color: #92B168;
   color: #fff;
   border-radius: 50%;
   z-index: 9;
@@ -865,7 +865,7 @@ header .container {
   margin-bottom: 4px;
 }
 .services .service-col h2 span {
-  color: #f43930;
+  color: #92B168;
 }
 .services .service-col h4 {
   color: #ffffff;
@@ -953,11 +953,11 @@ header .container {
   left: 60px;
   width: 105px;
   height: 6px;
-  background-color: #f43930;
+  background-color: #92B168;
 }
 .blog-posts .blog-post .blog-info > h4 {
   display: inline-block;
-  color: #f43930;
+  color: #92B168;
   font-size: 12px;
   text-transform: uppercase;
   margin-bottom: 24px;
@@ -970,7 +970,7 @@ header .container {
   margin-bottom: 25px;
 }
 .blog-posts .blog-post .blog-info > h2:hover {
-  color: #f43930;
+  color: #92B168;
 }
 .blog-posts .blog-post .blog-info > span {
   display: inline-block;
@@ -1005,7 +1005,7 @@ header .container {
   left: 60px;
   width: 105px;
   height: 6px;
-  background-color: #f43930;
+  background-color: #92B168;
 }
 .posts .post .post-info h4 {
   color: #ffffff;
@@ -1059,7 +1059,7 @@ header .container {
 }
 .consulation-form .submit {
   color: #fff;
-  background-color: #f43930;
+  background-color: #92B168;
   border-radius: 50%;
   line-height: 80px;
   height: 80px;
@@ -1131,7 +1131,7 @@ header .container {
   right: 0;
   width: 8px;
   height: 100%;
-  background-color: #f43930;
+  background-color: #92B168;
 }
 .team-section .team .team-info h3 {
   color: #ffffff;
@@ -1171,7 +1171,7 @@ header .container {
   font-size: 14px;
 }
 .team-section .team .social-links li a:hover {
-  color: #f43930;
+  color: #92B168;
 }
 
 .testimonials .testimonial {
@@ -1276,7 +1276,7 @@ header .container {
 
 .counter-section .counter-col h2 {
   font-size: 80px;
-  color: #f43930;
+  color: #92B168;
   font-family: "Cinzel", serif;
   font-weight: 400;
   margin-top: -21px;
@@ -1329,7 +1329,7 @@ header .container {
 }
 .our-proptz .proptz .progres-sec .progress .progress-bar {
   width: 0;
-  background-color: #f43930;
+  background-color: #92B168;
   -webkit-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
@@ -1533,7 +1533,7 @@ header .container {
   transform: translateY(-50%);
   width: 6px;
   height: 115px;
-  background-color: #f43930;
+  background-color: #92B168;
 }
 .page-details .team-details-sec .tm-info h3 {
   color: #ffffff;
@@ -1621,7 +1621,7 @@ header .container {
   -webkit-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
-  color: #f43930;
+  color: #92B168;
 }
 .sidebar .widget-services ul li a:before {
   content: "";
@@ -1671,7 +1671,7 @@ header .container {
   padding: 0 30px;
 }
 .sidebar.blog-sidebar .widget-newsletter form button {
-  background-color: #f43930;
+  background-color: #92B168;
   width: 68px;
   height: 100%;
   position: absolute;
@@ -1725,7 +1725,7 @@ header .container {
   font-weight: 700;
 }
 .sidebar.blog-sidebar .widget-posts .wd-post .wd-post-info h4:hover a {
-  color: #f43930;
+  color: #92B168;
 }
 .sidebar.blog-sidebar .widget-posts .wd-post .wd-post-info > span {
   display: block;
@@ -1748,7 +1748,7 @@ header .container {
 }
 .contact_section .contact_info ul li > span i:before {
   font-size: 40px;
-  color: #f43930;
+  color: #92B168;
 }
 .contact_section .contact_info ul li .ccn-info {
   flex: 0 0 86%;
@@ -1890,7 +1890,7 @@ header .container {
   left: 0;
   width: 100%;
   height: 0;
-  background-color: #f43930;
+  background-color: #92B168;
   opacity: 0;
   visibility: hidden;
   -webkit-transition: all 0.4s ease-in-out;
@@ -1898,7 +1898,7 @@ header .container {
   transition: all 0.4s ease-in-out;
 }
 .blog-page-head ul li a.active, .blog-page-head ul li a:hover {
-  color: #f43930;
+  color: #92B168;
 }
 .blog-page-head ul li a.active:before, .blog-page-head ul li a:hover:before {
   opacity: 1;
@@ -1923,7 +1923,7 @@ header .container {
 .blog-page-content .blog-main-post .blog-main-para > span {
   display: inline-block;
   font-size: 15px;
-  color: #f43930;
+  color: #92B168;
   margin-bottom: 47px;
   opacity: 0.5;
 }
@@ -1936,7 +1936,7 @@ header .container {
   margin-bottom: 24px;
 }
 .blog-page-content .blog-main-post .blog-main-para > h2:hover a {
-  color: #f43930;
+  color: #92B168;
 }
 .blog-page-content .blog-main-post .blog-main-para p {
   color: rgba(38, 38, 38, 0.5);
@@ -1955,7 +1955,7 @@ header .container {
 }
 .blog-page-content .blog-main-post .blog-main-para .meta li > span {
   display: inline-block;
-  color: #f43930;
+  color: #92B168;
   opacity: 0.5;
 }
 .blog-page-content .blog-main-post .blog-main-para .meta li > span i:before {
@@ -2055,7 +2055,7 @@ header .container {
   padding: 5px 10px;
 }
 .tags-list ul li a:hover {
-  background-color: #f43930;
+  background-color: #92B168;
   color: #fff;
 }
 
@@ -2311,7 +2311,7 @@ footer .top-footer .widget-links ul li a:before {
   left: 0;
   width: 0;
   height: 1px;
-  background-color: #f43930;
+  background-color: #92B168;
   opacity: 0;
   visibility: hidden;
   -webkit-transform: translateY(-50%);
