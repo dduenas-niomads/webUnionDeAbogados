@@ -679,13 +679,7 @@ header .container {
   vertical-align: middle;
 }
 .main-banner {
-  background-image: url("../images/banner-img.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  padding: 150px 0 0;
-}
-.main-banner2 {
-  background-image: url("../images/banners/banner3.jpg");
+  background-image: url("../images/banners/banner22.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   padding: 150px 0 0;
