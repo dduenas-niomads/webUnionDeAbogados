@@ -99,7 +99,7 @@ h3 {
 }
 
 p {
-  font-size: 18px;
+  font-size: 20px;
   line-height: 28px;
   color: rgba(38, 38, 38, 0.6);
 }
@@ -926,7 +926,7 @@ header .container {
 .blog-posts .blog-post-lg .figcaption > span {
   display: block;
   color: rgba(255, 255, 255, 0.4);
-  font-size: 14px;
+  font-size: 16.0px;
   font-weight: 500;
 }
 .blog-posts .blog-post {
@@ -975,7 +975,7 @@ header .container {
 .blog-posts .blog-post .blog-info > span {
   display: inline-block;
   color: rgba(38, 38, 38, 0.5);
-  font-size: 14px;
+  font-size: 16.0px;
 }
 
 .posts .row {
@@ -1019,7 +1019,7 @@ header .container {
 .posts .post .post-info p {
   color: rgba(255, 255, 255, 0.4);
   margin-bottom: 17px;
-  font-size: 14px;
+  font-size: 16.0px;
   line-height: 20px;
 }
 
@@ -1168,7 +1168,7 @@ header .container {
 .team-section .team .social-links li a {
   display: inline-block;
   color: #686868;
-  font-size: 14px;
+  font-size: 16.0px;
 }
 .team-section .team .social-links li a:hover {
   color: #92B168;
@@ -1213,12 +1213,12 @@ header .container {
 }
 .testimonials .testimonial .testi-info > span {
   display: block;
-  font-size: 14px;
+  font-size: 16.0px;
   color: rgba(255, 255, 255, 0.4);
 }
 .testimonials .testimonial .testi-info p {
   color: #ffffff;
-  font-size: 14px;
+  font-size: 16.0px;
   line-height: 20px;
   margin-top: 19px;
   margin-bottom: 25px;
@@ -1549,7 +1549,7 @@ header .container {
 }
 .page-details .team-details-sec .tm-info p {
   color: rgba(255, 255, 255, 0.5);
-  font-size: 14px;
+  font-size: 16.0px;
   line-height: 21px;
   margin-bottom: 21px;
   margin-bottom: 40px;
@@ -1730,7 +1730,7 @@ header .container {
 .sidebar.blog-sidebar .widget-posts .wd-post .wd-post-info > span {
   display: block;
   color: rgba(7, 12, 31, 0.5);
-  font-size: 14px;
+  font-size: 16.0px;
 }
 
 .contact_section .contact_info ul li {
@@ -1940,14 +1940,14 @@ header .container {
 }
 .blog-page-content .blog-main-post .blog-main-para p {
   color: rgba(38, 38, 38, 0.5);
-  font-size: 14px;
+  font-size: 16.0px;
   line-height: 21px;
   margin-bottom: 56px;
 }
 .blog-page-content .blog-main-post .blog-main-para .meta li {
   display: inline-block;
   color: rgba(38, 38, 38, 0.5);
-  font-size: 14px;
+  font-size: 16.0px;
   margin-right: 24px;
 }
 .blog-page-content .blog-main-post .blog-main-para .meta li a {
@@ -1959,7 +1959,7 @@ header .container {
   opacity: 0.5;
 }
 .blog-page-content .blog-main-post .blog-main-para .meta li > span i:before {
-  font-size: 14px;
+  font-size: 16.0px;
 }
 .blog-page-content .blog-posts.blog-page-v .row {
   margin-bottom: -30px;
@@ -2363,7 +2363,7 @@ footer .bt-links li a {
   display: inline-block;
   color: rgba(255, 255, 255, 0.5);
   padding-bottom: 4px;
-  font-size: 14px;
+  font-size: 16.0px;
   border-bottom: 1px solid #686868;
 }
 
@@ -2848,7 +2848,7 @@ footer .bt-links li a {
   }
 
   .burger-menu .menu-footer .contact-menu-links li p, .burger-menu .menu-footer .contact-menu-links li a, .burger-menu .menu-footer .contact-menu-links li span {
-    font-size: 14px;
+    font-size: 16.0px;
   }
 }
 @media only screen and (max-width: 768px) {
@@ -3136,7 +3136,7 @@ footer .bt-links li a {
 
   .counter-row li > span {
     max-width: 100%;
-    font-size: 14px;
+    font-size: 16.0px;
   }
 
   .pager-content {
@@ -3314,7 +3314,7 @@ footer .bt-links li a {
   }
 
   .sidebar.blog-sidebar .widget-posts .wd-post .wd-post-info h4 {
-    font-size: 14px;
+    font-size: 16.0px;
     line-height: 14px;
   }
 
