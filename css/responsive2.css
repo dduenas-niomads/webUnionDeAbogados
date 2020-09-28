@@ -109,6 +109,15 @@
 	.previ-sec-details .pv-thumbs-list {width: 100%;padding-left: 0;padding-top: 20px;}
 	.previ-sec-details .pv-thumb {margin-right: 20px;}
 	.poster-main, .poster-list {width: 640px !important;}
+    
+
+    
+    .main-banner { 
+		background-image: url("../images/banners/banner2_portrait.jpg"); 
+		padding: 0px;
+		padding-top: 60%;
+		height: 100vh;
+	}
 }
 
 
