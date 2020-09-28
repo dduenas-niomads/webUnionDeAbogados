@@ -173,6 +173,16 @@
 	.nav-tabs .nav-item {margin-right: 30px;}
 	.banner-sec.prview .banner-text > p {padding: 0;}
 	.poster-main, .poster-list {width: 400px !important;}
+
+    
+    .main-banner { 
+		background-image: url("../images/banners/banner1_portrait.jpg");
+		background-size: cover;
+		padding: 0px;
+		padding-top: 50vh;
+		height: 100vh;
+		width: auto;
+	}
 }
 
 
@@ -222,4 +232,14 @@
 	.vid-sec .sec-heading > p {padding: 0;}
 	.cdng-sec .cdn-text > h3 {font-size: 22px;line-height: 32px;}
 	.poster-main, .poster-list {width: 300px !important;}
+
+    
+    .main-banner { 
+		background-image: url("../images/banners/banner1_portrait.jpg");
+		background-size: cover;
+		padding: 0px;
+		padding-top: 50vh;
+		height: 100vh;
+		width: auto;
+	}
 }
