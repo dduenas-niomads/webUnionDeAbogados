@@ -114,6 +114,7 @@
     
     .main-banner { 
 		background-image: url("../images/banners/banner2_portrait.jpg"); 
+		background-size: cover;
 		padding: 0px;
 		padding-top: 60%;
 		height: 100vh;
