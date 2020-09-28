@@ -247,8 +247,8 @@
 		background-image: url("../images/banners/banner2_portrait.jpg"); 
 		background-size: cover;
 		padding: 0px;
-		padding-top: 60%;
-		height: auto;
+		padding-top: 50vh;
+		height: 100vh;
 		width: auto;
 	}
 }
