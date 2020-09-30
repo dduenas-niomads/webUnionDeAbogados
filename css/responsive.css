@@ -36,7 +36,7 @@
 	.main-shop-sec .col-lg-5 {max-width: 100%;}
 	.item-details {padding-left: 0;padding-top: 40px;}
 	.rcm-post .rcp-info > h3 {font-size: 17px;}
-	.rcm-post .rcp-info > span {font-size: 16.0px;margin-top: 0;}
+	.rcm-post .rcp-info > span {font-size: 20.0px;margin-top: 0;}
 	.banner-sec.prview .banner-text > p {padding: 0 50px;}
 	.pv-thumbs-list {width: 23%;}
 	.previ-sec-details .col-lg-7 {max-width: 100%;}
@@ -49,7 +49,7 @@
 	.cdng-sec .cdn-text.styl2 {padding-top: 0;}
 	.vid-sec .sec-heading > p {padding: 0 70px;}
 	.pb-110 {padding-bottom: 40px;}
-	.teams-profiles .profile-dt p {font-size: 16.0px;line-height: 24px;}
+	.teams-profiles .profile-dt p {font-size: 20.0px;line-height: 24px;}
 	.pay-options > img {float: right;max-width: 70%;}
 	.pay-options > h3 {margin-top: 0;}
 	.previ-sec-details .pv-carousel {width: 75%;}
@@ -166,7 +166,7 @@
 	.main-sec.sec-padding {padding: 80px 0;}
 	.abt-info > h3 {font-size: 24px;}
 	.blog-item .blog-info > h3 {font-size: 22px;}
-	.post .post-info .meta li {margin-right: 0;width: 100%;margin-bottom: 10px;font-size: 16.0px;}
+	.post .post-info .meta li {margin-right: 0;width: 100%;margin-bottom: 10px;font-size: 20.0px;}
 	.post .post-info .meta li:last-child {float: none;margin-bottom: 0;}
 	.post .post-info p {margin-bottom: 20px;}
 	.tm-sec {padding: 55px 0;}
@@ -203,10 +203,10 @@
 	.layout-cntrl form ul {width: 100%;}
 	.layout-cntrl form.fl-left {width: 100%;}
 	.prod-item .prod-info > h3 {font-size: 18px;margin-bottom: 10px;}
-	.prod-item .prod-info > p {font-size: 16.0px;line-height: 22px;}
+	.prod-item .prod-info > p {font-size: 20.0px;line-height: 22px;}
 	.demo-links li {margin-right: 10px;}
 	.demo-links li a {padding: 0 10px;}
-	.subcribe-sec-details > h4 {font-size: 16.0px;}
+	.subcribe-sec-details > h4 {font-size: 20.0px;}
 	.mai-pagination nav li.page-item .page-link {width: 40px;height: 40px;line-height: 40px;font-size: 16px;}
 	.abt-info {padding: 40px 20px;}
 	.post .post-info .post-title {font-size: 20px;}
