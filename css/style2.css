@@ -838,7 +838,7 @@ header .container {
   font-size: 68px;
   font-weight: 700;
   line-height: 60px;
-  /* max-width: 440px; */
+  max-width: 440px;
 }
 .section-title .h-title.dark-clr {
   color: #262626;
