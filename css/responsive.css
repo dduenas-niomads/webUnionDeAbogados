@@ -242,4 +242,9 @@
 		height: 100vh;
 		width: auto;
 	}
+
+	.h2-abogados {
+		font-size: 40px; 
+		line-height: 48px;
+	}
 }
