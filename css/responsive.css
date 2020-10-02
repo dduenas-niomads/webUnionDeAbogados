@@ -200,6 +200,15 @@
 		height: 100vh;
 		width: auto;
 	}
+
+	.abogadoshdos {
+		font-size: 40px !important;
+		line-height: 48px !important;
+	}
+
+	.header-content .logo {
+		margin-right: 0px;
+	}
 }
 
 
