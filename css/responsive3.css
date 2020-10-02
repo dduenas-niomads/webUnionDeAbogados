@@ -243,11 +243,11 @@
 		width: auto;
 	}
 
-	.h2-abogados {
-		font-size: 36px; 
-		line-height: 42px;
+	.abogadoshdos {
+		font-size: 36px !important;
+		line-height: 42px !important;
 	}
-
+	
 	.header-content .logo {
 		margin-right: 0px;
 	}

@@ -208,6 +208,11 @@ a {
   width: 300px;
 }
 
+.abogadoshdos {
+  font-size: 66px !important;
+  line-height: 76px !important;
+}
+
 a {
   -webkit-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
