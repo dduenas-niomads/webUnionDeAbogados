@@ -265,4 +265,8 @@
 		font-size: 40px; 
 		line-height: 48px;
 	}
+
+	.logo-full {
+		width: 270px;
+	}
 }

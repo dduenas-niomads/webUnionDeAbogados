@@ -215,6 +215,10 @@ a {
   transition: all 0.4s ease-in-out;
 }
 
+.logo-full {
+  width: 300px;
+}
+
 .slick-prev,
 .slick-next {
   top: -132px;

@@ -251,4 +251,8 @@
 	.header-content .logo {
 		margin-right: 0px;
 	}
+
+	.logo-full {
+		width: 270px;
+	}
 }
