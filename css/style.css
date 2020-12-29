@@ -1037,6 +1037,7 @@ header .container {
   margin-bottom: 17px;
   font-size: 20.0px;
   line-height: 24.0px;
+  text-align: justify;
 }
 
 .related-posts {
