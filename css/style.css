@@ -896,6 +896,22 @@ header .container {
   line-height: 19px;
 }
 
+.smpl-txt-new {
+  display: none;
+}
+.smpl-txt-new h4 {
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 23px;
+}
+.smpl-txt-new p {
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 20.0px;
+  line-height: 24.0px;
+  margin-bottom: 15px;
+}
+
 .smpl-txt {
   background-color: rgba(37, 37, 37, 0.7);
   border: 1px solid #6e6e6e;
@@ -2576,6 +2592,10 @@ footer .bt-links li a {
     padding: 63px 45px 47px;
   }
 
+  .smpl-txt-new {
+    /* padding: 63px 45px 47px; */
+  }
+
   .section-title p {
     font-size: 16px;
     line-height: 26px;
@@ -2700,6 +2720,10 @@ footer .bt-links li a {
 
   .smpl-txt {
     display: none;
+  }
+
+  .smpl-txt-new {
+    display: block;
   }
 
   .services .service-col {
