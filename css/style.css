@@ -901,7 +901,7 @@ header .container {
 }
 
 .post {
-  height: 750px;
+  height: 800px;
 }
 
 .smpl-txt-new {
@@ -2600,6 +2600,10 @@ footer .bt-links li a {
     padding: 63px 45px 47px;
   }
 
+  .post {
+    height: 850px;
+  }
+
   .smpl-txt-new {
     /* padding: 63px 45px 47px; */
   }
@@ -2731,7 +2735,7 @@ footer .bt-links li a {
   }
 
   .post {
-    height: auto;
+    height: 800px;
   }
 
   .smpl-txt-new {
@@ -2909,6 +2913,11 @@ footer .bt-links li a {
   }
 }
 @media only screen and (max-width: 768px) {
+
+  .post {
+    height: 750px;
+  }
+
   .header-content .contact-head-info {
     display: none;
   }
