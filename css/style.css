@@ -896,6 +896,10 @@ header .container {
   line-height: 19px;
 }
 
+.judge-line {
+  display: none;
+}
+
 .smpl-txt-new {
   display: none;
 }
@@ -2723,6 +2727,10 @@ footer .bt-links li a {
   }
 
   .smpl-txt-new {
+    display: block;
+  }
+
+  .judge-line {
     display: block;
   }
 
