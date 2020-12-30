@@ -900,6 +900,10 @@ header .container {
   display: none;
 }
 
+.post {
+  height: 750px;
+}
+
 .smpl-txt-new {
   display: none;
 }
@@ -2724,6 +2728,10 @@ footer .bt-links li a {
 
   .smpl-txt {
     display: none;
+  }
+
+  .post {
+    height: auto;
   }
 
   .smpl-txt-new {
