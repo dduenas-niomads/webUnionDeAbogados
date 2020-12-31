@@ -21,7 +21,7 @@
     if ($mail){
         var_dump("Mail enviado");
     } else {
-        var_dump(error_get_last());
+        var_dump("error: " . error_get_last());
     }
     var_dump($mail);
     exit();
