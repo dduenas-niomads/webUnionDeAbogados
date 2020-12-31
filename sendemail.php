@@ -17,17 +17,19 @@
     // // More headers. From is required, rest other headers are optional
     // $headers .= 'From: info@niomads.com' . "\r\n";
 
-    $to      = 'danielgrillz@gmail.com';
-    $subject    = 'El título';
-    $message   = 'Hola';
-    $headers = 'From: info@niomads.com';
+    // $mail = mail($to, $subject, $message, $headers);
+    // if ($mail){
+    //     var_dump("Mensaje enviado enviado");
+    //     exit();
+    // } else {
+    //     var_dump("No se pudo enviar el mensaje");
+    //     exit();
+    // }
 
-    $mail = mail($to, $subject, $message, $headers);
-    if ($mail){
-        var_dump("Mail enviado");
+    $success = mail('danielgrillz@gmail.com','New Enquiry', "New message");
+    if (!$success) {
+        print_r(error_get_last()['message']);
     } else {
-        var_dump("error: " . error_get_last());
+        print_r("Sended");
     }
-    var_dump($mail, $to, $subject, $message, $headers);
-    exit();
 ?>
