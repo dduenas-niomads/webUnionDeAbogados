@@ -40,7 +40,7 @@ $(window).on("load", function() {
       var email = $('#contact-form .email').val();
       if(name == '' || email == '')
       {
-        $('#contact-form .response').html('<div class="failed">Please fill the required fields.</div>');
+        $('#contact-form .response').html('<div class="failed">Porfavor, complete los campos de nombre y correo electrónico.</div>');
         return false;
       }
       $.ajax({
