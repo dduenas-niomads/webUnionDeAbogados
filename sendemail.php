@@ -17,12 +17,10 @@
     // // More headers. From is required, rest other headers are optional
     // $headers .= 'From: info@niomads.com' . "\r\n";
 
-    $to      = 'info@niomads.com';
+    $to      = 'danielgrillz@gmail.com';
     $subject    = 'El título';
     $message   = 'Hola';
-    $headers = 'From: webmaster@example.com' . "\r\n" .
-        'Reply-To: webmaster@example.com' . "\r\n" .
-        'X-Mailer: PHP/' . phpversion();
+    $headers = 'From: info@niomads.com';
 
     $mail = mail($to, $subject, $message, $headers);
     if ($mail){
