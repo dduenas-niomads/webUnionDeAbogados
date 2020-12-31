@@ -21,7 +21,8 @@
     if ($mail){
         echo "Mensaje enviado enviado";
     } else {
-        echo "No se pudo enviar el mensaje";
+        print_r("Error: " . error_get_last()['message']);
+        // echo "No se pudo enviar el mensaje";
     }
 
     // $success = mail('danielgrillz@gmail.com','New Enquiry', "New message");
