@@ -30,6 +30,6 @@
     } else {
         var_dump("error: " . error_get_last());
     }
-    var_dump($mail);
+    var_dump($mail, $to, $subject, $message, $headers);
     exit();
 ?>
