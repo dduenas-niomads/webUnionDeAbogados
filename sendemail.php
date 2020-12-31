@@ -26,10 +26,9 @@
     //     exit();
     // }
 
-    $success = mail('danielgrillz@gmail.com','New Enquiry', "New message");
-    if (!$success) {
-        print_r("Error: " . error_get_last()['message']);
-    } else {
-        print_r("Sended");
+    try {
+        mail('danielgrillz@gmail.com','New Enquiry', "New message");
+    } catch (\Throwable $th) {
+        dd($th);
     }
 ?>
