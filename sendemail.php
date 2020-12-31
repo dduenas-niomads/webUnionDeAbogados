@@ -19,11 +19,9 @@
 
     $mail = mail($to, $subject, $message, $headers);
     if ($mail){
-        var_dump("Mensaje enviado enviado");
-        exit();
+        echo "Mensaje enviado enviado";
     } else {
-        var_dump("No se pudo enviar el mensaje");
-        exit();
+        echo "No se pudo enviar el mensaje";
     }
 
     // $success = mail('danielgrillz@gmail.com','New Enquiry', "New message");
