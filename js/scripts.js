@@ -45,10 +45,10 @@ $(window).on("load", function() {
       }
       $.ajax({
         url:"sendemail.php",
-        method:"POST",
+        method:"GET",
         data: $(form).serialize(),
         beforeSend:function(){
-            $('#contact-form .response').html('<div class="text-info"><img src="images/preloader.gif"> Loading...</div>');
+            $('#contact-form .response').html('<div class="text-info"><img src="images/preloader.gif"> Enviando...</div>');
         },
         success:function(data){
             $('form').trigger("reset");
