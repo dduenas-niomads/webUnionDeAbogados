@@ -17,7 +17,7 @@
     // // More headers. From is required, rest other headers are optional
     // $headers .= 'From: info@niomads.com' . "\r\n";
 
-    $para      = 'info@niomads.com';
+    $to      = 'info@niomads.com';
     $subject    = 'El título';
     $message   = 'Hola';
     $headers = 'From: webmaster@example.com' . "\r\n" .
