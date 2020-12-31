@@ -1,6 +1,6 @@
 <?php
 
-    $to = "info@niomads.com";
+    $to = "info@udayaf.es";
     $subject = "Contacto de union de abogados y asesores financieros";
     $message = '<html><body>';
     $message = $message . '<table rules="all" style="border-color: #666;" cellpadding="10">';
@@ -19,7 +19,7 @@
 
     $mail = mail($to, $subject, $message, $headers);
     if ($mail){
-        echo "Mensaje enviado enviado";
+        echo "Mensaje enviado";
     } else {
         // print_r("Error: " . error_get_last()['message']);
         echo "No se pudo enviar el mensaje";
