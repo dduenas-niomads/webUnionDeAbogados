@@ -45,7 +45,7 @@ $(window).on("load", function() {
       }
       $.ajax({
         url:"sendemail.php",
-        method:"GET",
+        method:"POST",
         data: $(form).serialize(),
         beforeSend:function(){
             $('#contact-form .response').html('<div class="text-info"><img src="images/preloader.gif"> Enviando...</div>');
