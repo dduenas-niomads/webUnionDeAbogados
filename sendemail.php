@@ -18,8 +18,10 @@ $headers .= 'From: '. strip_tags($_POST['email']) . "\r\n";
 
 $mail = mail($to,$subject,$message,$headers);
 if ($mail){
-    echo "<h4>Mail enviado</h4>";
+    var_dump("Mail enviado");
 } else {
-    echo error_get_last()['message'];
+    var_dump(error_get_last()['message']);
 }
+var_dump($mail);
+exit();
 ?>
