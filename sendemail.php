@@ -28,7 +28,7 @@
 
     $success = mail('danielgrillz@gmail.com','New Enquiry', "New message");
     if (!$success) {
-        print_r(error_get_last()['message']);
+        print_r("Error: " . error_get_last()['message']);
     } else {
         print_r("Sended");
     }
