@@ -1,7 +1,7 @@
 <?php
 
     $to = "info@udayaf.es";
-    $subject = "Contacto de union de abogados y asesores financieros";
+    $subject = "UDAYAF: Contacto de union de abogados y asesores financieros";
     $message = '<html><body>';
     $message = $message . '<table rules="all" style="border-color: #666;" cellpadding="10">';
     $message = $message . "<tr style='background: #eee;'><td><strong>Nombres completos: </strong> </td><td>" . strip_tags($_POST['name']) . "</td></tr>";
@@ -21,14 +21,6 @@
     if ($mail){
         echo "Mensaje enviado";
     } else {
-        // print_r("Error: " . error_get_last()['message']);
         echo "No se pudo enviar el mensaje";
     }
-
-    // $success = mail('danielgrillz@gmail.com','New Enquiry', "New message");
-    // if (!$success) {
-    //     print_r("Error: " . error_get_last()['message']);
-    // } else {
-    //     print_r("Sended");
-    // }
 ?>

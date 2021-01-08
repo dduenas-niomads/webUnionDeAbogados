@@ -33,9 +33,7 @@ $(window).on("load", function() {
 
   if($('#contact-form').length){
     $('#submit').on("click", function(){
-      var o = new Object();
       var form = '#contact-form';
-
       var name = $('#contact-form .name').val();
       var email = $('#contact-form .email').val();
       if(name == '' || email == '')
