@@ -142,6 +142,7 @@
                                 <p>Es una organización compuesta por un
                                     grupo de profesionales con más de 35 años de experiencia especializados en el campo
                                     empresarial, y muy especialmente, en los terrenos financiero, comercial y jurídico.<br><br>
+                                    Disponemos de Defensa Jurídica Internacional.<br><br>
                                     Nuestra experiencia está basada en empresas que atraviesan momentos de dificultad y necesitan que se les oriente y ayude.<br><br>
                                     Nuestro asesoramiento no le implica ningún coste. Puede concertar cita sin 
                                     compromiso alguno.</p>
@@ -315,7 +316,7 @@
                                     <img src="./images/blog3.jpg" alt="" class="w-100">
                                 </div>
                                 <div class="post-info">
-                                    <h4><a href="#" title="">Compra de <br> empresas</a></h4>
+                                    <h4><a href="#" title="">Compra de <br> empresas</a></h4> 
                                     <p>Nuestro Grupo cuenta con Inversores y Gestores que están interesados en la compra
                                         parcial o total de una empresa. Una vez estudiada la operación, se procederá a hacer la
                                         propuesta correspondiente.</p>
@@ -335,7 +336,7 @@
                         <div class="col-md-4 col-sm-6">
                             <div class="widget widget-about">
                                 <!-- <img src="images/logo.png" alt=""> -->
-                                <p>C/ Alcalde Sainz de Baranda, 55<br /> 28009 Madrid</p>
+                                <p>Pº de las Delicias, 30<br /> 28045 Madrid</p>
                                 <ul>
                                     <li><span>+34 915 309 643 <br> +34 608 774 448</span></li>
                                     <li><a href="mailto:info@udayaf.es" title="">info@udayaf.es</a></li>
