@@ -20,7 +20,365 @@
 </head>
 
 <body>
-<h4>SITIO WEB DESHABILITADO</h4>
+    <div class="page-loading">
+        <div class="thecube">
+            <div class="cube c1"></div>
+            <div class="cube c2"></div>
+            <div class="cube c4"></div>
+            <div class="cube c3"></div>
+        </div>
+    </div>
+    <div class="wrapper">
+        <header>
+            <div class="container">
+                <div class="header-content d-flex flex-wrap align-items-center">
+                    <div class="menu-btn">
+                        <a href="#" title="">
+                            <span class="bar1"></span>
+                            <span class="bar2"></span>
+                            <span class="bar3"></span>
+                        </a>
+                    </div>
+                    <!--menu-btn end-->
+                    <div class="logo">
+                        <a href="/" title="">
+                            <img src="images/logo-full.png" class="logo-full" alt="">
+                        </a>
+                    </div><!-- logo end-->
+                    <nav style="padding-left: 7%;">
+                        <ul>
+                            <li><a class="active" href="/" title="">Línea jurídica</a></li>
+                            <li><a href="finance.html" title="">Línea financiera</a></li>
+                            <li><a href="contact.html" title="">Contacto</a></li>
+                        </ul>
+                    </nav><!--navigation end-->
+                    <!-- <ul class="contact-head-info ml-auto">
+                        <li>
+                            <img src="images/phone.svg" alt="">
+                            <span>+34 915 309 643 <br> +34 608 774 448</span>
+                        </li>
+                        <li>
+                            <img src="images/mail.svg" alt="">
+                            <a href="mailto:info@udayaf.es" title="">info@udayaf.es</a>
+                        </li>
+                    </ul> -->
+                    <!--contact-head-info end-->
+                </div><!--header-content end-->
+            </div>
+        </header><!--header end-->
+
+        <div class="burger-menu">
+            <a href="#" title="" class="close-menu">
+                <i class="flaticon-close"></i>
+            </a>
+            <div class="menu-middle">
+                <div class="container">
+                    <div class="main-menu">
+                        <div class="row">
+                            <!-- <div class="col-md-6">
+                                <div class="menu-widget">
+                                    <h4>SOCIAL MEDIA</h4>
+                                    <ul>
+                                        <li><a href="#" title="">Twitter</a></li>
+                                        <li><a href="#" title="">Linkedin</a></li>
+                                        <li><a href="#" title="">Instagram</a></li>
+                                        <li><a href="#" title="">Facebook</a></li>
+                                        <li><a href="#" title="">Telegram</a></li>
+                                    </ul>
+                                </div>
+                            </div> -->
+                            <div class="col-md-6">
+                                <div class="menu-widget">
+                                    <h4>Compañía</h4>
+                                    <ul>
+                                        <li><a href="/" title="">Línea jurídica</a></li>
+                                        <li><a href="finance.html" title="">Línea financiera</a></li>
+                                        <li><a href="contact.html" title="">Contacto</a></li>
+                                        <!-- <li><a href="blog.html" title="">News </a></li> -->
+                                    </ul>
+                                </div><!--menu-widget end-->
+                            </div>
+                        </div>
+                    </div><!--main-menu end-->
+                </div>
+            </div><!--menu-middle end-->
+        </div><!--burger-menu end-->
+
+        <section class="main-banner overlay">
+            <div class="container">
+                <div class="main-banner-content">
+                    <div class="social-links">
+                        <ul>
+                            <!-- <li><a href="#" title=""><i class="fab fa-linkedin"></i></a></li> -->
+                            <!-- <li><a href="#" title=""><i class="fab fa-twitter"></i></a></li> -->
+                            <li><a href="https://www.facebook.com/uniondeabogyasesfinan" target="_blank" title=""><i class="fab fa-facebook-f"></i></a></li>
+                        </ul>
+                    </div>
+                    <div class="banner-text">
+                        <h2 class="abogadoshdos">Especialistas en problemas complejos. <br> No consienta perder su patrimonio.</h2>
+                        <a href="contact.html" title="">Recibimos su consulta</a>
+                    </div>
+                    <div class="banner-img wow fadeInUp" data-wow-duration="1000ms">
+                        <img src="./images/banners/banner1.jpg" alt="" class="w-100">
+                    </div>
+                </div><!--main-banner-content end-->
+            </div>
+        </section><!--main-banner end-->
+
+        <section class="block" id="sectionAbout">
+            <div class="container">
+                <div class="about-section">
+                    <div class="row align-items-center">
+                        <div class="col-lg-6">
+                            <div class="abt-img overlay">
+                                <img src="./images/team2.jpg" alt="" class="w-100">
+                                
+                                <!-- <a href="https://www.youtube.com" title="" class="play-btn html5lightbox"><i class="fa fa-play"></i></a> -->
+                            </div><!--abt-img end-->
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="about-text wow fadeInUp" data-wow-duration="1000ms">
+                                <h2>Nuestra compañía</h2>
+                                <p>Es una organización compuesta por un
+                                    grupo de profesionales con más de 35 años de experiencia especializados en el campo
+                                    empresarial, y muy especialmente, en los terrenos financiero, comercial y jurídico.<br><br>
+                                    Disponemos de Defensa Jurídica Internacional.<br><br>
+                                    Nuestra experiencia está basada en empresas que atraviesan momentos de dificultad y necesitan que se les oriente y ayude.<br><br>
+                                    Nuestro asesoramiento no le implica ningún coste. Puede concertar cita sin 
+                                    compromiso alguno.</p>
+                                <a href="contact.html" title="" class="btn-default">Contactar</a>
+                            </div><!--about-text end-->
+                        </div>
+                    </div>
+                </div><!--about-section end-->
+            </div>
+        </section><!--sec-block end-->
+
+        <section class="block overlay">
+            <div class="fixed-bg bg1"></div>
+            <div class="container">
+                <div class="section-title">
+                    <h2 class="h-title">Nuestra esencia</h2>
+                </div><!--section-title end-->
+                
+                <div class="row">
+                    <div class="col-lg-6 col-md-6 col-sm-6">
+                        <div class="smpl-txt-new">
+                            <h4>¿Qué hace que un abogado sea buen abogado?</h4>
+                            <p>La sociedad considera que los buenos abogados son los que logran que sus clientes eludan el cumplimiento de sus obligaciones, 
+                                sin mayores responsabilidades. El buen abogado es el que utiliza argumentaciones formales y no de fondo para lograr un resultado 
+                                que no es estrictamente justo. <br><br>
+                                Nosotros, por el contrario, sabemos que un buen abogado es aquel que logra que sus clientes cumplan en los mejores términos sus obligaciones, los asesora de forma preventiva y presenta las mejores opciones para actuar dentro del marco legal.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="services">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-6 col-sm-6">
+                            <div class="service-col wow fadeIn" data-wow-duration="1000ms" data-wow-delay="0ms">
+                                <h2>01<span>.</span></h2>
+                                <h4>Trabajo confidencial</h4>
+                                <p></p>
+                            </div><!--service-col end-->
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6">
+                            <div class="service-col wow fadeIn" data-wow-duration="1000ms" data-wow-delay="200ms">
+                                <h2>02<span>.</span></h2>
+                                <h4>Enfoque individual</h4>
+                                <p></p>
+                            </div><!--service-col end-->
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6">
+                            <div class="smpl-txt">
+                                <h4>¿Qué hace que un abogado sea buen abogado?</h4>
+                                <p>La sociedad considera que los buenos abogados son los que logran que sus clientes eludan el cumplimiento de sus obligaciones, 
+                                    sin mayores responsabilidades. El buen abogado es el que utiliza argumentaciones formales y no de fondo para lograr un resultado 
+                                    que no es estrictamente justo. <br><br>
+                                    Nosotros, por el contrario, sabemos que un buen abogado es aquel que logra que sus clientes cumplan en los mejores términos sus obligaciones, los asesora de forma preventiva y presenta las mejores opciones para actuar dentro del marco legal.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-3 col-md-6 col-sm-6">
+                            <div class="service-col wow fadeIn" data-wow-duration="1000ms" data-wow-delay="400ms">
+                                <h2>03<span>.</span></h2>
+                                <h4>Profesionalidad</h4>
+                                <p></p>
+                            </div><!--service-col end-->
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6">
+                            <div class="service-col wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
+                                <h2>04<span>.</span></h2>
+                                <h4>Alto nivel de satisfacción</h4>
+                                <p></p>
+                            </div><!--service-col end-->
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6">
+                            <div class="service-col wow fadeIn" data-wow-duration="1000ms" data-wow-delay="800ms">
+                                <h2>05<span>.</span></h2>
+                                <h4>Experiencia garantizada</h4>
+                                <p></p>
+                            </div><!--service-col end-->
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6">
+                            <div class="service-col wow fadeIn" data-wow-duration="1000ms" data-wow-delay="1000ms">
+                                <h2>06<span>.</span></h2>
+                                <h4>Relación directa</h4>
+                                <p></p>
+                            </div><!--service-col end-->
+                        </div>
+                    </div>
+                </div><!--services end-->
+            </div>
+        </section>
+
+        <section class="block">
+            <div class="container">
+                <div class="section-title d-flex flex-wrap align-items-center">
+                    <h2 class="h-title dark-clr">Línea jurídica</h2>
+                    <h3 class="judge-line">Contamos con un grupo humano profesional e idóneo, y la infraestructura tecnológica adecuada que nos permite dar un excelente servicio en los siguientes campos jurídicos.</h3>
+                    <p>Contamos con un grupo humano profesional e idóneo, y la infraestructura tecnológica adecuada que nos permite dar un excelente servicio en los siguientes campos jurídicos.</p>
+                </div><!--section-title end-->
+                <div class="posts">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-6 col-sm-6">
+                            <div class="post">
+                                <div class="post-thumbnail">
+                                    <img src="./images/blog4.jpg" alt="" class="w-100">
+                                </div>
+                                <div class="post-info">
+                                    <h4><a href="#" title="">Embargos, subastas, desahucios...</a></h4>
+                                    <p>Muchos empresarios, con motivo de una deuda y resolución judicial, ven como se da
+                                        inicio a un procedimiento que le llevará al embargo de sus bienes. Abogados expertos en 
+                                        Derecho Civil evitarán que esto suceda, impidiendo que saquen sus propiedades a subasta.</p>
+                                    <a href="contact.html" title="" class="btn-default">Contactar</a>
+                                </div>
+                            </div><!--post end-->
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-6">
+                            <div class="post">
+                                <div class="post-thumbnail">
+                                    <img src="./images/blog5.jpg" alt="" class="w-100">
+                                </div>
+                                <div class="post-info">
+                                    <h4><a href="#" title="">Defensa jurídica (Mercantil, penal)</a></h4>
+                                    <p>Muchas de las reclamaciones de deudas, suelen acabar en la vía penal, aunque sea
+                                        como medida de presión. Nuestros expertos sabrán cómo defenderle.</p>
+                                    <a href="contact.html" title="" class="btn-default">Contactar</a>
+                                </div>
+                            </div><!--post end-->
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-6">
+                            <div class="post">
+                                <div class="post-thumbnail">
+                                    <img src="./images/blog1.jpg" alt="" class="w-100">
+                                </div>
+                                <div class="post-info">
+                                    <h4><a href="#" title="">Asesoramiento fiscal especializado</a></h4>
+                                    <p>Contamos con expertos abogados en el terreno fiscal, asistiendo a inspecciones y/o
+                                        recurriendo cualquier decisión judicial. Todo encaminado a resolver su situación del
+                                        modo más ventajoso posible para nuestros clientes.</p>
+                                    <a href="contact.html" title="" class="btn-default">Contactar</a>
+                                </div>
+                            </div><!--post end-->
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-6">
+                            <div class="post">
+                                <div class="post-thumbnail">
+                                    <img src="./images/blog2.jpg" alt="" class="w-100">
+                                </div>
+                                <div class="post-info">
+                                    <h4><a href="#" title="">Situaciones <br> concursales</a></h4>
+                                    <p>Cuando una empresa deja de funcionar con normalidad, lo aconsejable es intentar
+                                        reflotarla (negociando su pasivo) o bien, acudir en busca de una solución a la situación
+                                        de insolvencia de un deudor respecto a varios de sus acreedores, para que el primero
+                                        pueda finalmente cumplir con sus obligaciones.</p>
+                                    <a href="contact.html" title="" class="btn-default">Contactar</a>
+                                </div>
+                            </div><!--post end-->
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-6">
+                            <div class="post">
+                                <div class="post-thumbnail">
+                                    <img src="./images/blog9.jpg" alt="" class="w-100">
+                                </div>
+                                <div class="post-info">
+                                    <h4><a href="#" title="">Reflotamiento de empresas viables en crisis</a></h4>
+                                    <p>Cuando una empresa comienza a tener dificultades, es necesario analizar los motivos, 
+                                       y una vez conocidos, trazaremos y ayudaremos a ejecutar el plan que permitirá devolver a la empresa a la normalidad.</p>
+                                    <a href="contact.html" title="" class="btn-default">Contactar</a>
+                                </div>
+                            </div><!--post end-->
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-6">
+                            <div class="post">
+                                <div class="post-thumbnail">
+                                    <img src="./images/blog3.jpg" alt="" class="w-100">
+                                </div>
+                                <div class="post-info">
+                                    <h4><a href="#" title="">Compra de <br> empresas</a></h4> 
+                                    <p>Nuestro Grupo cuenta con Inversores y Gestores que están interesados en la compra
+                                        parcial o total de una empresa. Una vez estudiada la operación, se procederá a hacer la
+                                        propuesta correspondiente.</p>
+                                    <a href="contact.html" title="" class="btn-default">Contactar</a>
+                                </div>
+                            </div><!--post end-->
+                        </div>
+                    </div>
+                </div><!--posts end-->
+            </div>
+        </section>
+
+        <footer>
+            <div class="container">
+                <div class="top-footer">
+                    <div class="row">
+                        <div class="col-md-4 col-sm-6">
+                            <div class="widget widget-about">
+                                <!-- <img src="images/logo.png" alt=""> -->
+                                <p>Pº de las Delicias, 30<br /> 28045 Madrid</p>
+                                <ul>
+                                    <li><span>+34 915 309 643 <br> +34 608 774 448</span></li>
+                                    <li><a href="mailto:info@udayaf.es" title="">info@udayaf.es</a></li>
+                                </ul>
+                            </div><!--widget-about end-->
+                        </div>
+                        <div class="col-md-4 col-sm-6">
+                            <div class="widget widget-links">
+                                <h4 class="widget-title">SOCIAL MEDIA</h4>
+                                <ul>
+                                    <!-- <li><a href="#" title="">Twitter</a></li> -->
+                                    <!-- <li><a href="#" title="">Linkedin</a></li> -->
+                                    <!-- <li><a href="#" title="">Instagram</a></li> -->
+                                    <li><a href="https://www.facebook.com/uniondeabogyasesfinan" target="_blank" title="">Facebook</a></li>
+                                    <!-- <li><a href="#" title="">Telegram</a></li> -->
+                                </ul>
+                            </div><!--widget-links end-->
+                        </div>
+                        <div class="col-md-4 col-sm-6">
+                            <div class="widget widget-links">
+                                <h4 class="widget-title">Compañía</h4>
+                                <ul>
+                                    <li><a href="/#sectionAbout" target="_self" title="">Nosotros</a></li>
+                                    <li><a href="/" title="">Línea jurídica</a></li>
+                                    <li><a href="finance.html" title="">Línea financiera</a></li>
+                                    <li><a href="contact.html" title="">Contacto</a></li>
+                                    <!-- <li><a href="blog.html" title="">News </a></li> -->
+                                </ul>
+                            </div><!--widget-links end-->
+                        </div>
+                    </div>
+                </div>
+                <div class="bottom-strip">
+                    <ul class="bt-links">
+                        <li><a href="privacy-policy.html" title="">Políticas de privacidad</a></li>
+                        <li><a href="#" title="">Términos y condiciones</a></li>
+                    </ul><!--bt-links end-->
+                </div>
+            </div>
+        </footer><!--footer end-->
+
+    </div><!--wrapper end-->
 
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
